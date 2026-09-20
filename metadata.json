@@ -1,0 +1,6 @@
+{
+  "name": "macOS Clipboard Manager",
+  "description": "A native-style macOS clipboard manager with keyboard shortcuts, last N history view, search, and instant active application paste.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
